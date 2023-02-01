@@ -1,37 +1,13 @@
-### Hi there 👋
+## Welcome to my profile! 👋
 
-### Bem-vindo ao meu perfil!
-
-- 🔭 Estudante de Engenharia de Computação na USP - São Carlos
-
-##
+-> Computer Engineering student in University of São Paulo
 
 <div align="center">
-  <a href="https://github.com/iTzFabregas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iTzFabregas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzFabregas&layout=compact&langs_count=7&theme=dark"/>
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=iTzFabregas&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast&hide_border=true&hide=stars&bg_color=00000000">
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzFabregas&layout=compact&&include_all_commits=true&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=6">
+  
+  <!-- <img src ="https://github-readme-streak-stats.herokuapp.com?user=iTzFabregas&theme=highcontrast&hide_border=true&background=FFFFFF00"> -->
+  
 </div>
-
-<!--
-<div>
-  <a href = "mailto:pedroandrade@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-lucas-castro-de-andrade-0766161b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
--->
-
-
-
-<!--
-**iTzFabregas/iTzFabregas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
