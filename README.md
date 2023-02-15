@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
--> Computer Engineering student in University of São Paulo
+- 🔭 Computer Engineering student in University of São Paulo
 
 <div align="center">
 
